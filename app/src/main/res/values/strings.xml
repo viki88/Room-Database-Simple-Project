@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">RoomDatabaseSimpleProject</string>
+    <string name="insert_user">Insert User</string>
+    <string name="first_name">first name</string>
+    <string name="last_name">last name</string>
+    <string name="save">Save</string>
 </resources>
